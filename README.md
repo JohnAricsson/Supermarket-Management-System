@@ -3,7 +3,11 @@ Created in January 2025, this project marked my initiative to develop an advance
 
 
 
+**First Role – Admin**
+The Admin has full access to the dashboard for an overview of system activities. They can manage the complete product list with detailed information, organize items by categories and brands, add new products to the inventory, and update stock quantities as needed. Additionally, the Admin can manage supplier information, view detailed daily sales history recorded by cashiers, and oversee all user profiles within the system.
+
 ![Image](https://github.com/user-attachments/assets/19af7e6a-8c07-4be8-a314-a32b84532352)
+![Image](https://github.com/user-attachments/assets/c2a1fc16-7ee2-46e8-9abe-aac985c69e7c)
 ![Image](https://github.com/user-attachments/assets/a95fcde2-fa4c-4c1b-a08e-f67cbdc194ae)
 ![Image](https://github.com/user-attachments/assets/7da5a830-b7a9-4c17-b713-4b003e06402e)
 ![Image](https://github.com/user-attachments/assets/908c4454-05f9-4ac9-9a57-e591416f4daf)
@@ -14,6 +18,10 @@ Created in January 2025, this project marked my initiative to develop an advance
 ![Image](https://github.com/user-attachments/assets/f6b72a5f-2ec6-4879-b774-fdc9f2de42cf)
 ![Image](https://github.com/user-attachments/assets/0d648289-b054-4f5c-b4c3-18d05201cdc5)
 ![Image](https://github.com/user-attachments/assets/0ddb6239-47ce-4859-bce2-eea839813884)
+
+**Second Role – Cashier**
+The Cashier is responsible for processing customer sales. Each transaction begins with the generation of a unique transaction ID. Cashiers have access to the full product list, allowing them to add items to the cart, with stock levels automatically adjusted in real-time. They can apply discounts and finalize payments. If a payment is successfully completed, the system updates the stock accordingly; if not, the stock reverts to its previous state. Cashiers can also view a simplified version of their daily sales history and have the ability to update their own system password.
+
 ![Image](https://github.com/user-attachments/assets/465af71d-5c57-4c94-870c-eacb44d9f378)
 ![Image](https://github.com/user-attachments/assets/6f487e07-441a-4f8b-bc55-42f831a1f3c2)
 ![Image](https://github.com/user-attachments/assets/8f81acec-bbdb-4dbd-8126-d4f335110af4)
